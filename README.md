@@ -1,2 +1,3 @@
 # vue-animate
-Vue animation
+
+Simple app to test vue animation and gsap
